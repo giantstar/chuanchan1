@@ -1,0 +1,205 @@
+@import url(reset.css);
+html,
+body,
+.container {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.container {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  background: #eeeeee;
+}
+.header {
+  width: 100%;
+  height: 0.88rem;
+  background: none;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-align: center;
+  background-image: -webkit-linear-gradient(left, #f9384b, #fa6777);
+}
+.header .head-left img {
+  width: 0.35rem;
+  margin-left: 0.4rem;
+}
+.header .head-center {
+  font-size: 0.34rem;
+  color: #fff;
+  text-align: center;
+  margin-left: 2.7rem;
+}
+.header .head-right {
+  font-size: 0.32rem;
+  color: #fff;
+  margin-left: 1.6rem;
+}
+.main .ban {
+  width: 100%;
+  height: 5.27rem;
+  background: #ffffff;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  display: block;
+}
+.main .ban .word1 {
+  width: 6.92rem;
+  height: auto;
+  background: full;
+  font-size: 0.3rem;
+  color: #333333;
+  text-align: center;
+  display: block;
+  border-bottom: 1px solid #e1e1e1;
+  margin-left: 0.29rem;
+  line-height: 0.6rem;
+}
+.main .ban span {
+  display: block;
+  margin-top: 0.14rem;
+}
+.main .ban span b {
+  margin-left: 0.26rem;
+}
+.main .ban span b img {
+  width: 3.33rem;
+}
+.main .ban .word2 {
+  width: 0.79rem;
+  height: 0.38rem;
+  background: #f9384b;
+  font-size: 0.20rem;
+  color: #fff;
+  border-radius: 0.08rem;
+  text-align: center;
+  display: block;
+  margin-left: 0.34rem;
+  float: left;
+}
+.main .ban .word3 {
+  display: block;
+  float: left;
+  margin-left: 0.28rem;
+  font-size: 0.24rem;
+  color: #333333;
+}
+.main .ban .word4 {
+  display: block;
+  float: left;
+  margin-left: 2.3rem;
+  font-size: 0.24rem;
+  color: #333333;
+}
+.main .ban2 {
+  margin-top: 0.2rem;
+  width: 100%;
+  height: 6.7rem;
+  background: #ffffff;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  display: block;
+}
+.main .ban2 .word1 {
+  width: 6.92rem;
+  height: auto;
+  background: full;
+  font-size: 0.3rem;
+  color: #333333;
+  text-align: center;
+  display: block;
+  border-bottom: 1px solid #e1e1e1;
+  margin-left: 0.29rem;
+  line-height: 0.6rem;
+}
+.main .ban2 .wang {
+  display: block;
+  margin-top: 0.25rem;
+}
+.main .ban2 .wang b img {
+  width: 2.4rem;
+}
+.main .ban2 .word2 {
+  width: 0.79rem;
+  height: 0.38rem;
+  background: #f9384b;
+  font-size: 0.20rem;
+  color: #fff;
+  border-radius: 0.08rem;
+  text-align: center;
+  display: block;
+  margin-left: 0.34rem;
+  float: left;
+}
+.main .ban2 .word3 {
+  display: block;
+  float: left;
+  margin-left: 0.28rem;
+  font-size: 0.24rem;
+  color: #333333;
+}
+.main .ban2 .word4 {
+  display: block;
+  float: left;
+  margin-left: 2.3rem;
+  font-size: 0.24rem;
+  color: #333333;
+}
+.main .banner b img {
+  width: 6.7rem;
+  margin-top: 0.39rem;
+  margin-left: 0.4rem;
+}
+.main .banner2 p {
+  font-size: 0.3rem;
+  color: #333333;
+  display: block;
+  margin-top: 0.27rem;
+  margin-left: 0.4rem;
+}
+.main .banner2 h5 {
+  font-size: 0.3rem;
+  color: #666666;
+  display: block;
+  margin-top: 0.2rem;
+  margin-left: 0.4rem;
+  margin-bottom: 0.13rem;
+}
+.main .banner3 {
+  width: 100%;
+  height: 1rem;
+  background: #ffffff;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-align: center;
+  border-bottom: 2px solid #eeeeee;
+}
+.main .banner3 b p {
+  font-size: 0.26rem;
+  color: #999999;
+  margin-left: 0.4rem;
+  margin-top: 0.16rem;
+}
+.main .banner3 b a {
+  font-size: 0.26rem;
+  color: #999999;
+  margin-left: 0.4rem;
+}
+.main .banner3 span {
+  font-size: 0.26rem;
+  color: #666666;
+  display: block;
+  margin-left: 0.45rem;
+}
+.main .banner3 span i {
+  color: #f9384b;
+  font-size: 0.28rem;
+}
+.main h5 {
+  font-size: 0.3rem;
+  color: #666666;
+  display: block;
+  margin-top: 0.1rem;
+  margin-left: 0.4rem;
+  margin-bottom: 0.1rem;
+}
